@@ -24,7 +24,7 @@ This project uses supervised Machine Learning algorithms to predict the likeliho
 
 ## 📊 Dataset Overview
 
-- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes)
+- **Source:** [Dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 - **Features:**
   - Pregnancies
   - Glucose
@@ -78,11 +78,12 @@ The **Random Forest Classifier** was selected as the best model based on highest
 - BMI: 33.6
 - Diabetes Pedigree Function: 0.51
 - Age: 42
-
----
+  
 ### 🧾 **Prediction Output**
 Prediction: 🟥 Positive for Diabetes
+
 ---
+
 ### 🔢 **User Input 2 (Negative Case) **
 
 -Pregnancies: 1
@@ -94,6 +95,12 @@ Prediction: 🟥 Positive for Diabetes
 -Diabetes Pedigree Function: 0.167
 -Age: 21
 
----
 ### 🧾 **Prediction Output**
 Prediction: 🟩 Negative for Diabetes
+
+---
+
+🙋‍♂️ Let's Connect
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/varun-dixit-6946a6297/) or check out more of my work. I’m always open to feedback, collaboration, or discussion!
+---
