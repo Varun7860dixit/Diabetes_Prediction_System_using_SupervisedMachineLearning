@@ -58,6 +58,7 @@ The **Random Forest Classifier** was selected as the best model based on highest
 ---
 
 ## 🧰 Libraries Used
+
 - pandas
 - numpy
 - matplotlib
@@ -67,16 +68,32 @@ The **Random Forest Classifier** was selected as the best model based on highest
 
 ## ✅ Sample Input & Output
 
-### 🔢 **User Input Example**
-Pregnancies: 5
-Glucose: 166
-Blood Pressure: 62
-Skin Thickness: 19
-Insulin: 175
-BMI: 33.6
-Diabetes Pedigree Function: 0.51
-Age: 42
+### 🔢 **User Input 1 (Positive Case) **
+
+-Pregnancies: 5
+- Glucose: 166
+- Blood Pressure: 62
+- Skin Thickness: 19
+- Insulin: 175
+- BMI: 33.6
+- Diabetes Pedigree Function: 0.51
+- Age: 42
 
 ---
 ### 🧾 **Prediction Output**
 Prediction: 🟥 Positive for Diabetes
+---
+### 🔢 **User Input 2 (Negative Case) **
+
+-Pregnancies: 1
+-Glucose: 89
+-Blood Pressure: 66
+-Skin Thickness: 23
+-Insulin: 94
+-BMI: 28.1
+-Diabetes Pedigree Function: 0.167
+-Age: 21
+
+---
+### 🧾 **Prediction Output**
+Prediction: 🟩 Negative for Diabetes
